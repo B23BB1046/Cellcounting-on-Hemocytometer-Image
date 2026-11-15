@@ -1,0 +1,11 @@
+# Core scientific / image processing
+numpy
+matplotlib
+opencv-python
+pandas
+Pillow
+scikit-image
+
+# Deep learning / cell segmentation
+torch
+cellpose
